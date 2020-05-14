@@ -110,6 +110,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+ALLOWED_HOSTS = ['thekkr.pythonanywhere.com']
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
